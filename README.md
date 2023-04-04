@@ -5,8 +5,6 @@
 <a href ="https://spotify-recently-played-readme.vercel.app/api?user=31r2llf3nbejagocguypnqjouo5u" target="https://open.spotify.com/user/31r2llf3nbejagocguypnqjouo5u"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31r2llf3nbejagocguypnqjouo5u&unique=true&count=1&width=300" /></a>
 
 </p>
-
-
 <img src = "https://user-images.githubusercontent.com/83286825/190402802-358dfa0b-5658-447b-93fc-426583d0c232.png" width =50% height=50% align = "right"> 
 
 
