@@ -1,6 +1,4 @@
 # Hi there 👋, Akash here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://github.com/ak-akash03)<br/>
-
 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
