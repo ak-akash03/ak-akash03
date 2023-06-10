@@ -15,12 +15,6 @@ I am an undergraduate computer application student at AIM . C, C++, Python, Java
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="https://ak-akash03.github.io/JustForFun/">about.me.in</a>
 
-__Check out my GitHub repository:__
-
-
-
-
-
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/ak-akash03">ProTeam</a>
 
