@@ -17,16 +17,6 @@ I am an undergraduate computer application student at AIM . C, C++, Python, Java
 
 __Check out my GitHub repository:__
 
-<div>
-  <p>
-    <a href="https://github.com/ak-akash03/JustForFun">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/ak-akash03/MyPortfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
 
 
 <h2>👀 My github Stats</h2>
