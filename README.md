@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Rathod</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-akash03&label=Profile%20views&color=0e75b6&style=flat" alt="ak-akash03" /> </p>
 - 🌱 I’m currently learning **React Js**
+
 - 📫 How to reach me **aakashrathodyt2020@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
