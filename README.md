@@ -9,6 +9,7 @@
 - 📫 How to reach me **aakashrathodyt2020@gmail.com**
 - 🙋‍ More about me: Visit my <b><a href = "https://ak-akash03.github.io/personal-portfolio/"> Website </a></b>
 - 📹 Subscribe on YouTube <b><a href = "https://www.youtube.com/@capturebypawar"> Youtube </a></b>
+- 🖇 Follow me on <b><a href = "https://www.linkedin.com/in/akash-rathod-01b630259/"> Linkedin </a></b>
 <h3 align="left">Connect with me:</h3>
 
 
