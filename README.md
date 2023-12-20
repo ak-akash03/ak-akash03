@@ -7,6 +7,7 @@
 
 
 - 📫 How to reach me **aakashrathodyt2020@gmail.com**
+- 🙋‍ More about me: Visit my <a href = "https://ak-akash03.github.io/personal-portfolio/"> Website </a>
 <h3 align="left">Connect with me:</h3>
 
 
