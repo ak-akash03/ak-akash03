@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-akash03&label=Profile%20views&color=0e75b6&style=flat" alt="ak-akash03" /> </p>
 - 🌱 I’m currently learning **React Js**
 
-- 📫 How to reach me **aakashrathodyt2020@gmail.com**
+- 📄 Know about my experiences <b><a href = "https://drive.google.com/file/d/128gXHNovejvb3iyKq45LL0AOn39v9_yV/view?usp=drive_link"> Resume </a></b>
 - 🙋‍ More about me: Visit my <b><a href = "https://ak-akash03.github.io/personal-portfolio/"> Website </a></b>
 - 📹 Subscribe on YouTube <b><a href = "https://www.youtube.com/@capturebypawar"> Youtube </a></b>
+- 📫 How to reach me **aakashrathodyt2020@gmail.com**
 - 🖇 Follow me on <b><a href = "https://www.linkedin.com/in/akash-rathod-01b630259/"> Linkedin </a></b>
-- 📄 Know about my experiences <b><a href = "https://drive.google.com/file/d/128gXHNovejvb3iyKq45LL0AOn39v9_yV/view?usp=drive_link"> Resume </a></b>
 
 <h3 align="left">Connect with me:</h3>
 
