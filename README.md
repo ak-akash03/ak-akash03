@@ -15,6 +15,7 @@
   <h1 color="blue">
     Hey,👋 I'm Akash Rathod
   </h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -30,7 +31,6 @@
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 
