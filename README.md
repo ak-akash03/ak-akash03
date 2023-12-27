@@ -11,7 +11,6 @@
 
 
 
-
 - 📫 How to reach me **aakashrathodyt2020@gmail.com**
 - 🌱 I’m currently learning **React Js**
 - 📄 Know about my experiences <b><a href = "https://drive.google.com/file/d/128gXHNovejvb3iyKq45LL0AOn39v9_yV/view?usp=drive_link"> Resume </a></b>
