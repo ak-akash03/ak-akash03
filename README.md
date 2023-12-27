@@ -1,3 +1,35 @@
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/profile-atul-kumar/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/atulanand46">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=theatulanand&style=flat-square&color=blue" alt=""/>
+<a href="https://github.com/theatulanand?tab=followers"><img src="https://img.shields.io/github/followers/theatulanand?label=Followers&style=social" alt="GitHub Badge"></a>
+  <h1 color="blue">
+    Hey, I'm Atul Kumar
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Akash Rathod</h1>
 
 
