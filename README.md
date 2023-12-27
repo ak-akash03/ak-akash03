@@ -14,8 +14,8 @@
 <a href="https://github.com/ak-akash03?tab=followers"><img src="https://img.shields.io/github/followers/ak-akash03?label=Followers&style=social" alt="GitHub Badge"></a>
   <h1 color="blue">
     Hey,👋 I'm Akash Rathod
-  </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+  </h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
