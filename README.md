@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning **React Js**
 - 📄 Know about my experiences <b><a href = "https://drive.google.com/file/d/128gXHNovejvb3iyKq45LL0AOn39v9_yV/view?usp=drive_link"> Resume </a></b>
 - 🙋‍ More about me: Visit my <b><a href = "https://ak-akash03.github.io/personal-portfolio/"> Website </a></b>
-- 📹 Subscribe on YouTube <b><a href = "https://www.youtube.com/@capturebypawar"> Youtube </a></b>
+- 📹 Subscribe on <b><a href = "https://www.youtube.com/@capturebypawar"> Youtube </a></b>
 - 🖇 Follow me on <b><a href = "https://www.linkedin.com/in/akash-rathod-01b630259/"> Linkedin </a></b>
 
 <h3 align="left">Languages and Tools:</h3>
